@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @WongYuYe
-- 🌱 I’m currently learning Web3.0
+- 👋 Hi
 
 <!---
 WongYuYe/WongYuYe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
